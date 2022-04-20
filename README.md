@@ -5,3 +5,4 @@
 - Static API
 - Tableview and NavigationController
 
+![](https://github.com/MutluClkn/SehirTanitimKitabi/blob/main/GIF/CityApp.gif)
