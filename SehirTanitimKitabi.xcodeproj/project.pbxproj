@@ -52,21 +52,14 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		FAB36D89281161D900B7D7FB /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				FADA7C842810181D00D76C6D /* MainViewController.swift */,
-			);
-			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		FAB36D8A281161E500B7D7FB /* Views */ = {
+		FAB36D8A281161E500B7D7FB /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				FADA7C892810193800D76C6D /* TableViewCell.swift */,
 				FADA7C8B28101A9600D76C6D /* DetailsViewController.swift */,
+				FADA7C842810181D00D76C6D /* MainViewController.swift */,
 			);
-			path = Views;
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 		FADA7C64281016B000D76C6D = {
@@ -88,8 +81,7 @@
 		FADA7C6F281016B100D76C6D /* SehirTanitimKitabi */ = {
 			isa = PBXGroup;
 			children = (
-				FAB36D8A281161E500B7D7FB /* Views */,
-				FAB36D89281161D900B7D7FB /* ViewModel */,
+				FAB36D8A281161E500B7D7FB /* Controllers */,
 				FAB36D88281161C200B7D7FB /* Models */,
 				FADA7C862810188F00D76C6D /* Others */,
 				FADA7C7E281016B200D76C6D /* Info.plist */,
